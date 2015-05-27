@@ -1,4 +1,4 @@
-#Environment configs for Sitecore XP
+#Experimental config overrides for Sitecore XP
 
 ##Warnings
 1. This repository contains experimental config overrides.
