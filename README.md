@@ -7,3 +7,7 @@ Please use with caution.
 ##Repo structure
 There is a subfolder for each role (CD or dev, for example).
 You can find an auto include config there.
+
+##Known Issues
+Because of the getTranslation pipeline `patch:delete`, you will be seeing some errors in the logs:
+`ERROR Cannot find translation pipeline with name 'getTranslation'.`
