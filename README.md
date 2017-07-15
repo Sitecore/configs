@@ -1,6 +1,6 @@
-#Experimental config overrides for Sitecore
+# Experimental config overrides for Sitecore
 
-##Warnings
+## Warnings
 1. This repository contains experimental config overrides.
 No guarantees that it works with your Sitecore instance.
 
@@ -12,6 +12,6 @@ Enabling this file without taking into account the specifics of your solution ca
 
 Please use with caution.
 
-##Repo structure
+## Repo structure
 There is a subfolder for each role (CD or dev, for example).
 You can find an auto include config there.
